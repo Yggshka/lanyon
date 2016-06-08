@@ -5,18 +5,18 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
+title:               Yggshka
+tagline:             'Hearthstone analytics'
 description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
-baseurl:             ''
+url:                 http://yggshka2.github.io
+baseurl:             ' http://yggshka.github.io'
 paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
+  name:              Pavel Pavlenko
   url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  email:             yggshka@gmail.com
 
 # Custom vars
 version:             1.0.0
